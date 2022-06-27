@@ -1,0 +1,10 @@
+{
+  "name": "javascript-throw-exception",
+  "version": "1.0.0",
+  "main": "add.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
